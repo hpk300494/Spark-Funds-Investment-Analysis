@@ -1,4 +1,5 @@
 # Spark Funds Investment Analysis
+An end-to-end investment analysis using Crunchbase startup funding data to identify the optimal funding type, investment-friendly countries, and high-growth sectors.
 
 ## Overview
 
