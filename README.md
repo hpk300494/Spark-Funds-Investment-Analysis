@@ -1,2 +1,2 @@
 # Spark-Funds-Investment-Analysis
-Data analysis project identifying the best funding type, countries, and sectors for startup investments using Crunchbase data and Python.
+An end-to-end exploratory data analysis project that applies data engineering, statistical analysis, and business intelligence techniques to Crunchbase investment data to recommend optimal venture investment strategies based on funding patterns, geographic trends, and sector-level insights.
